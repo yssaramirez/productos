@@ -1,11 +1,25 @@
 .appWhatsapp{
 	position: fixed;
-	right: 10px;
+	right: 24px;
 	bottom: 100px;
-	width: 60px;
+	width: 40px;
 	z-index: 1000;
 }
 .appWhatsapp img{
+	width: 100%;
+	height: auto;
+}
+
+
+
+.casitaapp{
+	position: fixed;
+	right: 24px;
+	bottom: 35px;
+	width: 40px;
+	z-index: 1000;
+}
+.casitaapp img{
 	width: 100%;
 	height: auto;
 }
